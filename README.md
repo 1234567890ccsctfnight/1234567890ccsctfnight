@@ -1,5 +1,7 @@
 ## Hi there 👋
 
 <!--
-ccsCTF{gl}
+real flag
+
+ccsCTF{amarhan_bgzde}
 -->
